@@ -1,0 +1,70 @@
+Season, 
+Division, A1:SuperLega A2:Serie A2
+Phase, so far all games are in regular season 
+Harf, 1st:andata 2nd:ritorno
+Day, Seasonal section
+Match No,
+DMY, Day/Month/Year
+Time, Game start time
+Spettatori, Spectators
+Incasso, Collection
+T, Team identifier
+Team, Team name
+Set Won, number of winning sets. 
+Set Lost, number of loseing sets. 
+Set1_Point_Won_Part1
+Set1_Point_Won_Part2
+Set1_Point_Won_Part3
+Set1_Point_Won, total won point at set1.
+Set1_Point_Lost_Part1
+Set1_Point_Lost_Part2
+Set1_Point_Lost_Part3
+Set1_Point_Lost, total lost point at set1.
+Set2_Point_Won_Part1
+Set2_Point_Won_Part2
+Set2_Point_Won_Part3
+Set2_Point_Won, total won point at set2.
+Set2_Point_Lost_Part1
+Set2_Point_Lost_Part2
+Set2_Point_Lost_Part3
+Set2_Point_Lost, total lost point at set2.
+Set3_Point_Won_Part1
+Set3_Point_Won_Part2
+Set3_Point_Won_Part3
+Set3_Point_Won, total won point at set3.
+Set3_Point_Lost_Part1
+Set3_Point_Lost_Part2
+Set3_Point_Lost_Part3
+Set3_Point_Lost, total lost point at set3.
+Set4_Point_Won_Part1
+Set4_Point_Won_Part2
+Set4_Point_Won_Part3
+Set4_Point_Won, total won point at set4.
+Set4_Point_Lost_Part1
+Set4_Point_Lost_Part2
+Set4_Point_Lost_Part3
+Set4_Point_Lost, total lost point at set4.
+Set5_Point_Won_Part1
+Set5_Point_Won_Part2
+Set5_Point_Won_Part3
+Set5_Point_Won, total won point at set5.
+Set5_Point_Lost_Part1
+Set5_Point_Lost_Part2
+Set5_Point_Lost_Part3
+Set5_Point_Lost, total lost point at set5.
+Point_Tot, total won point at match.
+Point_BP, total break point at match.
+Point_VP, total won-lost  point at match
+Service_N, number of service.
+Service_Err, number of service error.
+Service_Pt, number of service ace.
+Reception_N, number of reception.
+Reception_Err, number of reception error.
+Reception_Pos%, number of positive reception.
+Reception_Prf%, number of perfect reception.
+Spike_N, number of spikes.
+Spike_Err, number of error.
+Spike_Mur, number of blocked spikes.
+Spike_Pt, number of kill spikes.
+Spike_Pt%, number of kill spikes ratio.
+Block_Pt, number of block point.
